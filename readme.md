@@ -1,8 +1,6 @@
-Hi 👋 My name is Glass
+Hi There👋 
 ======================
-
-Java Developer
----------------------
+I'm Glass, a Java developer that also works on React tickets. 
 
 *   🌍  I'm based in the UK.
 *   🧠  I'm currently improving my Springboot skills.
