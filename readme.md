@@ -5,7 +5,7 @@ I am a Java Developer
 ---------------------
 
 *   🌍  I'm based in the UK.
-*   🧠  I'm learning improving my Springboot skills.
+*   🧠  I'm currently improving my Springboot skills.
 *   🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
