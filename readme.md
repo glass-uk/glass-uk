@@ -1,7 +1,7 @@
 Hi 👋 My name is Glass
 ======================
 
-I am a Java Developer
+Java Developer
 ---------------------
 
 *   🌍  I'm based in the UK.
