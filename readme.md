@@ -1,7 +1,6 @@
 Hi There👋 
 ======================
-I'm Glass, a Java developer that also works on React tickets. 
-
+I'm Glass, a Java developer.
 *   🌍  I'm based in the UK.
 *   🧠  I'm currently improving my Springboot skills.
 *   📖  I'm planning to learn Flutter/Dart.
