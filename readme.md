@@ -3,7 +3,6 @@ Hi There👋
 I'm Glass, a Java developer.
 *   🌍  I'm based in the UK.
 *   🧠  I'm currently improving my Springboot skills.
-*   📖  I'm planning to learn Flutter/Dart.
 *   🤝  I'm open to collaborating on interesting projects that will improve my current skill set.
 
 
